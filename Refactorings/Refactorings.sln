@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refactorings", "Refactorings\Refactorings.csproj", "{A54F03D8-4D4D-43B0-A702-C750398FFD22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRefactorings", "ConsoleRefactorings\ConsoleRefactorings.csproj", "{EAC848AB-0177-4BDF-A079-4B91B95F51BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A54F03D8-4D4D-43B0-A702-C750398FFD22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54F03D8-4D4D-43B0-A702-C750398FFD22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54F03D8-4D4D-43B0-A702-C750398FFD22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54F03D8-4D4D-43B0-A702-C750398FFD22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC848AB-0177-4BDF-A079-4B91B95F51BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC848AB-0177-4BDF-A079-4B91B95F51BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC848AB-0177-4BDF-A079-4B91B95F51BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC848AB-0177-4BDF-A079-4B91B95F51BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
