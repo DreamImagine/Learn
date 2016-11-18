@@ -66,7 +66,8 @@
     <Compile Include="异步\IAsyncResult_异步状态.cs" />
     <Compile Include="异步\异步.cs" />
     <Compile Include="异步\异步2.cs" />
-    <Compile Include="扩展.cs" />
+    <Compile Include="扩展示例文件.cs" />
+    <Compile Include="扩展\Helper.cs" />
     <Compile Include="设计模式\中介模式.cs" />
     <Compile Include="设计模式\享元模式.cs" />
     <Compile Include="设计模式\代理模式.cs" />

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Refactorings
 {
-    public static class 扩展
+    public static class 扩展示例文件
     {
 
         /// <summary>
